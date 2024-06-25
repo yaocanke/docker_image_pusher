@@ -1,1 +1,1 @@
-nocobase/nocobase:1.2.7-alpha
+openspug/spug-service
