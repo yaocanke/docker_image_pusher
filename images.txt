@@ -1,1 +1,1 @@
-mongo:4.2
+restcloud/restcloud-etl:V3.3
