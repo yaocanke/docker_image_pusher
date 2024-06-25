@@ -1,1 +1,1 @@
-openspug/spug-service
+mongo:4.2
